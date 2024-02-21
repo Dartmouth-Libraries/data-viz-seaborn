@@ -25,7 +25,7 @@ The repo has the following structure:
 
 If you run into any trouble working with these materials, have some questions about the content, or want to give general feedback, feel free to go through one of these channels to get in touch with us:
 
-- [Open a new issue](https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/data-viz-matplotlib/-/issues)
+- [Open a new issue](https://git.dartmouth.edu/lib-digital-strategies/RDS/workshops/computational-tools/data-viz-seaborn/-/issues)
 - [Send an email](mailto:researchdatahelp@groups.dartmouth.edu)
 - [Book an appointment](https://libcal.dartmouth.edu/appointments?lid=3991&g=12688) (Dartmouth-members only)
 
