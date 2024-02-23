@@ -17,7 +17,7 @@ pip install -r requirements.txt
 The repo has the following structure:
 
 - `ppt`: The slide deck used in the introduction
-- `img`: Holds images used in the materials
+- `data`: Holds datasets used in the materials
 - `notebooks`: Notebook illustrating the main concepts discussed in this workshop
 
 ### Issues and feedback
